@@ -1,4 +1,6 @@
 ## Oi !! Eu sou Claudio Carvalho
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas
+
 - 🌱 Estudando Angular,Spring,Java
  <div>
   <a href="https://github.com/claudiokofe">
