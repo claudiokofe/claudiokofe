@@ -1,7 +1,7 @@
 ## Oi !! Eu sou Claudio Carvalho
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
 
-- 🌱 Estudando Angular,Spring,Java
+- 🌱 Estudando Angular,Spring boot,Java
  <div>
   <a href="https://github.com/claudiokofe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiokofe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
