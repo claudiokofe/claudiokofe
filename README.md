@@ -1,5 +1,6 @@
 ## Oi !! Eu sou Claudio Carvalho
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
+- 📚 Estudante em Desenvolvimento WEB
 
 - 🌱 Estudando Angular,Spring boot,Java
  <div>
